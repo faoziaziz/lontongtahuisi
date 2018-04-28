@@ -15,4 +15,4 @@ https://localhost:8080/crot
 ```
 
 # Demo
-1. [Heroku](https://lontongtahuisi.herokuapp.com)
+1. [Heroku](https://lontongtahuisi.herokuapp.com/crot)
