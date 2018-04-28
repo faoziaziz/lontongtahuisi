@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/SpringMITcode-1.0-PERCOBAAN.war
