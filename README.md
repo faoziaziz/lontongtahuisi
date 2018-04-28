@@ -13,3 +13,6 @@ lihat di browser anda
 ```bash
 https://localhost:8080/crot
 ```
+
+# Demo
+1. [Heroku](https://lontongtahuisi.herokuapp.com)
